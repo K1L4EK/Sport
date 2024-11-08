@@ -12,9 +12,9 @@
     text-shadow: 2px 3px 2px black; 
 }
 header{
-    height: 1000px;
-	background-image: url('../img/sport.jpg');
-    background-repeat: no-repeat;
+    	height: 1000px;
+    	background-image: url('../img/sport.jpg');
+    	background-repeat: no-repeat;
 	background-size: cover;
 }
 .text{
@@ -125,7 +125,7 @@ header{
 }
 
 .burger__line:not(:last-child) {
-       margin-bottom: 5px;
+	margin-bottom: 5px;
 }
 
 .burger{
@@ -198,16 +198,16 @@ img{
     display: block;  
     }
     .nav__header{
-    position: absolute;
-    background-color: blueviolet;
-    flex-direction: column;
-    width: 190px;
-    height: 150px;
-    z-index: 1;
-    right: 0;
-    top: 1%;
-    transform: translateX(100%);
-    transition: 1s;   
+    	position: absolute;
+    	background-color: blueviolet;
+    	flex-direction: column;
+    	width: 190px;
+    	height: 150px;
+    	z-index: 1;
+    	right: 0;
+    	top: 1%;
+    	transform: translateX(100%);
+    	transition: 1s;   
     }
     .nav_header_active{
         transform: translateX(0%);
