@@ -12,10 +12,10 @@
     text-shadow: 2px 3px 2px black; 
 }
 header{
-    	height: 1000px;
-    	background-image: url('../img/sport.jpg');
-    	background-repeat: no-repeat;
-	background-size: cover;
+    height: 1000px;
+    background-image: url('../img/sport.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .text{
     -webkit-text-fill-color: #920101;
@@ -125,7 +125,7 @@ header{
 }
 
 .burger__line:not(:last-child) {
-	margin-bottom: 5px;
+    margin-bottom: 5px;
 }
 
 .burger{
