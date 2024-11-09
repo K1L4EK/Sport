@@ -11,7 +11,7 @@
     padding: 25px;
     text-shadow: 2px 3px 2px black; 
 }
-header{
+.header{
     height: 1000px;
     background-image: url('../img/sport.jpg');
     background-repeat: no-repeat;
